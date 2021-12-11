@@ -1,7 +1,3 @@
 Archivo 1
-<<<<<<< HEAD
 Modificado en master
-=======
-Modificado en rama 2
 Modificado otra vez
->>>>>>> nueva_rama
