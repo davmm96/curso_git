@@ -1,2 +1,2 @@
 Archivo 1
-Modificado en rama 2
+Modificado en master
